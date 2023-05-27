@@ -18,3 +18,11 @@ Define a business problem from the shared datasets, train relevant Machine Learn
 <li>Helping Marketing Team to send customized marketing emails to groups of customers presenting similar spending behaviors (clustering)</li>
 <li>Helping Customer Support team to reach out to customers with abnormal behaviors from their usual spending patterns (anomaly detection)</li>
 </ul>
+
+### Link for dataset
+
+<ul>
+  <li><a href="https://drive.google.com/file/d/1Fqx7lZFI9DTP-uIV8gstnGoNVGygaeAO/view?usp=share_link">Link 1</a></li>
+  <li><a href="#">Link 2</a></li>
+</ul>
+  
