@@ -23,6 +23,6 @@ Define a business problem from the shared datasets, train relevant Machine Learn
 
 <ul>
   <li><a href="https://drive.google.com/file/d/1Fqx7lZFI9DTP-uIV8gstnGoNVGygaeAO/view?usp=share_link">Link 1</a></li>
-  <li><a href="#">Link 2</a></li>
+  <li><a href="https://drive.google.com/file/d/17nKfgrsIch_iPCInVU4IuAYB15JwS699/view?usp=share_link">Link 2</a></li>
 </ul>
   
